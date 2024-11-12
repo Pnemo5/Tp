@@ -1,7 +1,7 @@
-Clock and Temp Project
-Author: Elin Wallgren
-Date: 2024-10-22
-Project Overview
+#Clock and Temp Project
+##Author: Elin Wallgren
+##Date: 2024-10-22
+##Project Overview
 Detta projekt använder en DS3231 RTC (real-time clock) modul för att hålla och visa tid på en 1306 OLED-display. Dessutom mäter den temperaturen via en analog temperatursensor och visar den mätta temperaturen som en korresponderande vinkel på en 9g-servomotor.
 
 Funktioner
